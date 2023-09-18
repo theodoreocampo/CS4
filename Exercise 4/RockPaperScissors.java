@@ -1,8 +1,7 @@
 import java.util.Scanner;
-//after, PLEASE CHANGE CLASSNAME AND RENAME TO "ROCKPAPERSCISSORS" 
 
 
-public class Main{
+public class RockPaperScissors{
 	public static void main(String[] args){
 
     Scanner input = new Scanner(System.in); 
