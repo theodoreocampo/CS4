@@ -2,7 +2,7 @@ public class Move{
   
     private final String name;
     private Move strongAgainst;
-    
+
     public Move(String name){
         this.name = name;
         this.strongAgainst = null;
